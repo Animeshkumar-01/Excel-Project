@@ -19,4 +19,4 @@ Insights -
 
 ### Dashboard view
 
-![image alt]
+![image alt](https://github.com/Animeshkumar-01/Excel-Project/blob/72ef9c9f04879b757b14f2d3c4ab9ce5d4decfb7/Bike%20Sales%20Analysis/Screenshot%202026-03-08%20131010.png)
