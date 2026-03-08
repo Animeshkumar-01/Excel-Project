@@ -1,21 +1,25 @@
-## Airbnb Dataset Analysis
+## Bike Sales Report
 
-This project answers a few business-related questions and demonstrates the performance of Airbnb across 6 different neighborhoods in the US.
+This project analyzes bike purchase behavior based on factors like age group, income, occupation, commute distance, and education level.
+The dashboard helps identify which type of customers are more likely to purchase bikes.
 
-
-Data set- Airbnb Open Dataset available on [Kaggle](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata)
 
 Insights -
-1.  What is the total number of Airbnb operating in 6 neighborhoods - Manhattan, Brooklyn, Queens, Bronx, and Staten Island?
-2.  Total revenue generated
-3.  Revenue from the cost of rooms and service charge
-4.  Number of AirBnbs established over a decade
-5.  Average price in each neighborhood and its trend
-6.  Percentage of verified and unverified stay
-7.  Availability of instant bookings
-8.  Nature of cancellation policy
-9.  Number of ratings received by the different types of rooms - hotel, apartment, shared, private
-10.  Number of reviews received in each neighborhood
+1. Total number of customers who purchased bikes and those who did not.
+
+2. Bike purchase comparison across different age groups.
+
+3. Average income distribution among different occupations.
+
+4. Relationship between commute distance and bike purchase behavior.
+
+5. Average income trend across different age groups.
+
+6. Distribution of customers based on marital status.
+
+7. Education level distribution of customers.
+
+8. Impact of gender on bike purchase decisions.
 
 ### Dashboard view
 
